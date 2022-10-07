@@ -1,0 +1,24 @@
+        Steam Vanity Url Checker
+
+-----------------------------------------
+
+  Author: u004
+  License: GPL-3.0
+
+-----------------------------------------
+
+  Project Files:
+      ./**
+          .gitignore
+          COPYING
+          README
+          requirements.txt
+
+      src/**
+          base.py
+          config.py
+          github.py
+          main.py
+          menu.py
+          steam.py
+          util.py
